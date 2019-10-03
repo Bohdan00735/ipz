@@ -2,6 +2,8 @@ package main.java.com.labwork2;
 
 public class C11 implements If1 {
 
+    /* class one with override methods*/
+
     C13 c13 = new C13();
 
 

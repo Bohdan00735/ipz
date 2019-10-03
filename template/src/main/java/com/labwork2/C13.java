@@ -1,6 +1,7 @@
 package main.java.com.labwork2;
 
 public class C13 implements If3 {
+    /* class three with override methods*/
 
     If2 if2;
     @Override
